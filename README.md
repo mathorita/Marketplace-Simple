@@ -27,7 +27,7 @@ API de marketplace desenvolvida com Django REST Framework, onde usuários podem 
 ## 🚀 Como executar localmente
 
 1. Clone o repositório:
-git clone https://github.com/seuusuario/nome-do-repo.git
+git clone [https://github.com/seuusuario/nome-do-repo.git](https://github.com/mathorita/Marketplace-Simple.git)
 cd nome-do-repo
 
 Crie e ative um ambiente virtual:
